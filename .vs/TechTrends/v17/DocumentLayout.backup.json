@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|c:\\users\\hp pavilion\\source\\repos\\techtrends\\techtrends\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A1DFEF2-7028-4556-8E17-E805D98FBF72}|TechTrends\\TechTrends.csproj|solutionrelative:techtrends\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "TechTrends\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "TechTrends\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-28T18:43:10.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TechTrends\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "TechTrends\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T17:39:01.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "TechTrends\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "TechTrends\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:23:15.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TechTrends\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TechTrends\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:42:20.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TechTrends\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TechTrends\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAwJsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:02:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TechTrends\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Models\\Product.cs",
+              "RelativeToolTip": "TechTrends\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:17:53.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TechTrends\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TechTrends\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:04:11.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "TechTrends\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Models\\ProductDto.cs",
+              "RelativeToolTip": "TechTrends\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:17:25.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Program.cs",
+              "RelativeDocumentMoniker": "TechTrends\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Program.cs",
+              "RelativeToolTip": "TechTrends\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:09:05.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "TechTrends\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp Pavilion\\source\\repos\\TechTrends\\TechTrends\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "TechTrends\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:03:35.601Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

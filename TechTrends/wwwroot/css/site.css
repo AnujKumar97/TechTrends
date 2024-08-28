@@ -1,0 +1,48 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.custom-heading {
+    position: relative;
+    font-size: 2.5rem; /* Adjust size as needed */
+    font-weight: bold;
+    color: #004080; /* Dark blue color for better visibility */
+    margin-bottom: 1.5rem; /* Space below the heading */
+    text-transform: uppercase; /* For added emphasis */
+}
+
+    .custom-heading::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -5px; /* Adjust to control the distance from text */
+        width: 100%; /* Full width of the heading */
+        height: 5px; /* Thickness of the underline */
+        background-color: #004080; /* Match the color of the text */
+        border-radius: 2px; /* Rounded edges for a smoother look */
+    }
+
+.custom-subtitle {
+    display: block;
+    font-size: 1.1rem; /* Subtitle size */
+    color: #6c757d; /* Muted color for subtitle */
+    margin-top: 0.5rem; /* Space above the subtitle */
+}
